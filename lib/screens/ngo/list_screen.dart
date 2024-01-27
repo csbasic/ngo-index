@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
-class NgoDetail extends StatelessWidget {
-  final ngoId;
-  const NgoDetail({super.key, required this.ngoId});
+class NgoList extends StatelessWidget {
+  const NgoList({super.key});
 
   @override
   Widget build(BuildContext context) {
