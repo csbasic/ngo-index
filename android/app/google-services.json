@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "514391810672",
+    "project_id": "ngo-index",
+    "storage_bucket": "ngo-index.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514391810672:android:ca0c5e1d74bc4f652a0ab5",
+        "android_client_info": {
+          "package_name": "com.example.ngo_index"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs00uMnKtP8Xl1umBjrZYgTWumq9sa8-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514391810672:android:7cb654e7d07aabd02a0ab5",
+        "android_client_info": {
+          "package_name": "com.ngoindex.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs00uMnKtP8Xl1umBjrZYgTWumq9sa8-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514391810672:android:4796e681203f314c2a0ab5",
+        "android_client_info": {
+          "package_name": "dev.loople.ngo_index"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs00uMnKtP8Xl1umBjrZYgTWumq9sa8-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

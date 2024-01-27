@@ -8,7 +8,6 @@ import 'package:ngo_index/screens/home/widgets/ngolist.dart';
 import 'package:ngo_index/utils/colors.dart';
 import 'package:ngo_index/widgets/app_heavy_text.dart';
 import 'package:ngo_index/widgets/app_text.dart';
-import 'package:ngo_index/widgets/blurshadow.dart';
 import 'package:ngo_index/screens/home/widgets/search_bar.dart';
 import 'package:ngo_index/screens/home/widgets/top_area.dart';
 
@@ -148,7 +147,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 blurStyle: BlurStyle.outer)
           ], color: AppColors.textWhite),
           height: Dimensions.font20 * 3,
-          child: TabBar(
+          child: const TabBar(
               indicatorWeight: 0.1,
               indicatorColor: AppColors.boderWhite,
               labelColor: AppColors.primaryColor,

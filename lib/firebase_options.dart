@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAs00uMnKtP8Xl1umBjrZYgTWumq9sa8-c',
-    appId: '1:514391810672:android:ca0c5e1d74bc4f652a0ab5',
+    appId: '1:514391810672:android:4796e681203f314c2a0ab5',
     messagingSenderId: '514391810672',
     projectId: 'ngo-index',
     storageBucket: 'ngo-index.appspot.com',
@@ -66,10 +66,10 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAyTu1ykGLP_R19R5bkKeFFZiwe8nB00ig',
-    appId: '1:514391810672:ios:b9d281b656ffb1d22a0ab5',
+    appId: '1:514391810672:ios:21c9001bf322ab2e2a0ab5',
     messagingSenderId: '514391810672',
     projectId: 'ngo-index',
     storageBucket: 'ngo-index.appspot.com',
-    iosBundleId: 'com.example.ngoIndex',
+    iosBundleId: 'dev.loople.ngoIndex',
   );
 }
